@@ -6,7 +6,7 @@
 
 3. Download and activate "IntelliJ IDEA"
 
-4. Create a github account (or log into existing) at https://wwww.github.com
+4. Create a github account (or log into existing) at https://www.github.com
 
 5. Download MongoDB from https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2012plus-4.2.7-signed.msi
 
